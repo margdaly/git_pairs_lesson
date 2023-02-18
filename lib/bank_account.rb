@@ -20,4 +20,8 @@ class BankAccount
   def verify?(id, pin)
 
   end
+
+  def test
+   p "This is the first test"
+  end
 end
