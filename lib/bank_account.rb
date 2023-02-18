@@ -20,4 +20,9 @@ class BankAccount
   def verify?(id, pin)
 
   end
+
+  def test2
+    message = "We are testing merge conflicts"
+    p message
+  end
 end
