@@ -30,6 +30,10 @@ class BankAccount
    p "This is the first test"
   end
 
+  def test4(test)
+    p "The #{test} is the best" 
+  end 
+  
   def test3
     message = "We are testing git merge main"
     p message
