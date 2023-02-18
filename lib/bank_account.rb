@@ -29,4 +29,9 @@ class BankAccount
   def test
    p "This is the first test"
   end
+
+  def test3
+    message = "We are testing git merge main"
+    p message
+  end
 end
