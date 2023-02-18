@@ -29,4 +29,8 @@ class BankAccount
   def test
    p "This is the first test"
   end
+
+  def test4(test)
+    p "The #{test} is the best" 
+  end
 end
